@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Gabriel Sabino 😁
+## Bem-vindo(a) ao perfil de Gabriel Sabino 😁
 
 
     
