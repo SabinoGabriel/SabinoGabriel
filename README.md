@@ -12,6 +12,15 @@ Sou apaixonado por tecnologia, inovação e resolução de problemas. Busco apre
 
 ---
 
+## Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SabinoGabriel&theme=radical" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SabinoGabriel&theme=radical" height="165" />
+</div>
+
+---
+
 ## Contato
 
 <div>
