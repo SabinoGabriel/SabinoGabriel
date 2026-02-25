@@ -1,14 +1,17 @@
-# Gabriel Sabino Leite
+# 👋 Olá, sou Gabriel Sabino Leite
 
-**Analista de Projetos na Seed a Bit**  
-**Graduando em Sistemas de Informação pela UFRPE**  
-Recife, Pernambuco, Brasil
+**Desenvolvedor | Projetos Web & Data | Sistemas de Informação – UFRPE**  
+📍 Recife, Pernambuco, Brasil
 
 ---
 
 ## Sobre mim
 
-Sou apaixonado por tecnologia, inovação e resolução de problemas. Busco aprender constantemente, colaborar com equipes e entregar valor através do desenvolvimento de software e gestão de projetos.
+Apaixonado por tecnologia e inovação, atuo como desenvolvedor em formação com experiência prática em projetos web, dados e automação. Sou graduando em Sistemas de Informação (UFRPE), com passagem pelo CIn UFPE, e desenvolvo soluções que vão desde front-end responsivo até scripts para automação e análise de dados.
+
+Tenho vivência em ambientes ágeis (Scrum), versionamento com Git/GitHub, deploy de projetos e colaboração em equipes interdisciplinares na Empresa Júnior Seed a Bit. No meu portfólio você encontra cases de landing page, sistemas em Python com gamificação e outros experimentos digitais.
+
+Curioso, resiliente e com vontade constante de aprender novas tecnologias, busco projetos que desafiem minha capacidade de resolver problemas e gerar impacto prático.
 
 ---
 
